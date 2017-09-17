@@ -1,0 +1,4 @@
+Notification.MainActivity, Notification;md5aab20d78fd58b28edd95302081d6b986.MainActivity
+Notification.MainActivity, Notification, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aab20d78fd58b28edd95302081d6b986.MainActivity
+Notification.MainActivity;md5aab20d78fd58b28edd95302081d6b986.MainActivity
+notification.MainActivity;md5aab20d78fd58b28edd95302081d6b986.MainActivity

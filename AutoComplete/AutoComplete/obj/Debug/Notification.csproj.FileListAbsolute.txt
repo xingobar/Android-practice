@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Notification\Notification\bin\Debug\Notification.dll
+C:\Users\Administrator\source\repos\Notification\Notification\bin\Debug\Notification.pdb
+C:\Users\Administrator\source\repos\Notification\Notification\bin\Debug\Notification.Notification.apk
+C:\Users\Administrator\source\repos\Notification\Notification\bin\Debug\Notification.Notification-Signed.apk
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\Notification.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\Notification.dll
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\Notification.pdb
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\android\bin\Notification.Notification.apk
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\res\layout\main.xml
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\R.cs.flag
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\uploadflags.txt
+C:\Users\Administrator\source\repos\Notification\Notification\bin\Debug\Notification.dll.mdb
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\android\assets\Notification.dll.mdb
+C:\Users\Administrator\source\repos\Notification\Notification\obj\Debug\res\layout\list_item.xml
