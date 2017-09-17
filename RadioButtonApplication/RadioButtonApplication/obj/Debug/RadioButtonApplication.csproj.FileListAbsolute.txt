@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\bin\Debug\RadioButtonApplication.dll
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\bin\Debug\RadioButtonApplication.pdb
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\bin\Debug\RadioButtonApplication.RadioButtonApplication.apk
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\bin\Debug\RadioButtonApplication.RadioButtonApplication-Signed.apk
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\RadioButtonApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\RadioButtonApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\RadioButtonApplication.dll
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\RadioButtonApplication.pdb
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\android\bin\RadioButtonApplication.RadioButtonApplication.apk
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\res\layout\main.xml
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\res\values\strings.xml
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\R.cs.flag
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\uploadflags.txt
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\bin\Debug\RadioButtonApplication.dll.mdb
+C:\Users\Administrator\source\repos\RadioButtonApplication\RadioButtonApplication\obj\Debug\android\assets\RadioButtonApplication.dll.mdb

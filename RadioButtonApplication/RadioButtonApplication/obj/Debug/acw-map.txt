@@ -1,0 +1,4 @@
+RadioButtonApplication.MainActivity, RadioButtonApplication;md54ee044955104063ecb923ac00bb59f8b.MainActivity
+RadioButtonApplication.MainActivity, RadioButtonApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54ee044955104063ecb923ac00bb59f8b.MainActivity
+RadioButtonApplication.MainActivity;md54ee044955104063ecb923ac00bb59f8b.MainActivity
+radiobuttonapplication.MainActivity;md54ee044955104063ecb923ac00bb59f8b.MainActivity
